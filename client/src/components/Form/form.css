@@ -1,0 +1,9 @@
+.home{
+    border: 2px solid lightblue;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.btn{
+    margin:10px 45%;
+}
